@@ -7,9 +7,13 @@ Our goal with this repository is to track our intitiatives around community grow
 # WPTN Organiser team April 2024 - March 2025
 
 Ibrahim - WPEnthusiast - Chennai
+
 Vanita - Freelancer - Bangalore
+
 Vijayan - Freelancer - Erode
+
 Hilson - Codewave - Bangalore
+
 Hareesh - KiloFarms - Trichy
 
 # WPTN UPCOMING ACTIVITIES
